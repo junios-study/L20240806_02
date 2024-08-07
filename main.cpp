@@ -169,6 +169,8 @@ int main()
 
 	cout << "이건 집에서 한거" << endl;
 
+	cout << "이건 학원에서 한거" << endl;
+
 
 	return 0;
 }
